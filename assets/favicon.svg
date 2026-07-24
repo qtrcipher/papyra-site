@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Papyra">
+  <!-- Placeholder brand mark: a sheet of paper with a folded corner, warm amber-gold.
+       Replace with the final app icon glyph when available. -->
+  <rect width="64" height="64" rx="14" fill="#1C1B19"/>
+  <path d="M18 12h20l10 10v30a2 2 0 0 1-2 2H18a2 2 0 0 1-2-2V14a2 2 0 0 1 2-2Z" fill="#F5F3EF"/>
+  <path d="M38 12l10 10H40a2 2 0 0 1-2-2V12Z" fill="#E0A857"/>
+  <g stroke="#A8712C" stroke-width="2.4" stroke-linecap="round">
+    <line x1="23" y1="30" x2="41" y2="30"/>
+    <line x1="23" y1="37" x2="41" y2="37"/>
+    <line x1="23" y1="44" x2="34" y2="44"/>
+  </g>
+</svg>
